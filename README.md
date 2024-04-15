@@ -16,7 +16,7 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://love-card-five.vercel.app).***
+***Here's an Example [`OUTPUT`](https://love-card-two.vercel.app/).***
 
 ---
 
